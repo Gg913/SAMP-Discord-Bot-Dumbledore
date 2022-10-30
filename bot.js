@@ -715,6 +715,6 @@ client.on('message', msg => {
 
 //====================== BOT TOKEN FROM ENV VAIABLE ===================================
 
-client.login(process.env.BOT_TOKEN);//BOT_TOKEN is the Client Secret
+client.login(process.env.MTAzNjExNzYxNjEzOTQ0NDI4NQ.G00LKf.pbqf5nzkSfXsXkiq--lNFc83Dnt6VBFMujVIJc);//BOT_TOKEN is the Client Secret
 
 //=====================================================================================
